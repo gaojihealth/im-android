@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IMDEMO</string>
+
+    <!--我-->
+    <string name="my_chat_account">账号:%1$s</string>
+    <string name="setting">设置</string>
+
+    <!--设置-->
+    <string name="new_message_remind">新消息提醒</string>
+    <string name="exit">退出</string>
+
+    <!--关于-->
+    <string name="app_name_in_about">野火即时通讯</string>
+    <string name="function_introduction">功能介绍</string>
+    <string name="complaint">投诉</string>
+    <string name="check_update">检查更新</string>
+    <string name="terms_of_use_and_privacy_policy">使用条款和隐私政策</string>
+</resources>
